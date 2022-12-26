@@ -11,4 +11,4 @@ python-dotenv==0.10.3
 PyYAML==5.1.2
 setuptools==41.0.1
 simplejson==3.16.0
-wheel==0.33.4
+wheel==0.38.1
